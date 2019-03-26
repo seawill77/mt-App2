@@ -4,22 +4,7 @@
 
 Techonlogies: HTML/CSS、sass/less、JavaScript、Vue2.5、Vuex、Nuxt、Koa2、element-ui、Mongodb ect
 
-## Development Process
-
-``` bash
-# install dependencies
-$ npm install
-
-# serve with hot reload at localhost:3000
-$ npm run dev
-
-# build for production and launch server
-$ npm run build
-$ npm start
-
-# generate static project
-$ npm run generate
-
+# Development Process
 
 Koa2 :
 koa-generator
