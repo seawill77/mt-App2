@@ -1,4 +1,4 @@
-# mt-app
+# MT-web-APP VUE + SSR + Koa2 + MongoDB
 
 >  this project is based on Vue SSR+Koa2 fullstack technologies, to develop a "meituan" (Chinese Grounpon like) website.
 
