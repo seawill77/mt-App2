@@ -1,6 +1,8 @@
 # mt-app
 
-> My neat Nuxt.js project
+>  this project is based on Vue SSR+Koa2 fullstack technologies, to develop a "meituan" (Chinese Grounpon like) website.
+
+Techonlogies: HTML/CSS、sass/less、JavaScript、Vue2.5、Vuex、Nuxt、Koa2、element-ui、Mongodb ect
 
 ## Build Setup
 
@@ -19,4 +21,3 @@ $ npm start
 $ npm run generate
 ```
 
-For detailed explanation on how things work, checkout [Nuxt.js docs](https://nuxtjs.org).
