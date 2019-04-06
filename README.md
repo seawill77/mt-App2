@@ -95,3 +95,6 @@ Techonlogies: HTML/CSS、sass/less、JavaScript、Vue2.5、Vuex、Nuxt、Koa2、
 >  ：encodeURIComponent(username)
 >  this.$axios
 >  ：npm i crypto-js
+
+
+npm 123
